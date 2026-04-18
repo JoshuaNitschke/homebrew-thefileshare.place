@@ -1,8 +1,8 @@
 cask "thefileshareplace" do
-  version "0.0.1-rc.9"
-  sha256 "a7e966fca0bce8ce0adc2b8394aa42156bbb293fd60c70e9ee39c53afd4f04f8"
+  version "0.0.1-rc.10"
+  sha256 "bc27f459baf5971cde6bb2a62bc12221bebde2913c248e014ef96583d93b26d9"
 
-  url "https://downloads.thefileshare.place/v0.0.1-rc.9/TheFileSharePlace-0.0.1-rc.9-osx-arm64.dmg"
+  url "https://downloads.thefileshare.place/v0.0.1-rc.10/TheFileSharePlace-0.0.1-rc.10-osx-arm64.dmg"
   name "theFILESHARE.place"
   desc "Share files. No accounts, no nonsense."
   homepage "https://thefileshare.place"
